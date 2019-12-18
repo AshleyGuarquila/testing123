@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<Link rel="stylesheet" href="CSSTESTING.css"
+
+</head>
+
+<title> Taco </title>
+
+<p> HTML Buttons are defined with the button tag:</p>
+<button> Click here! </button>
+
+<body>
+<h1> My first peanut butter </h1>
+<h2> My first peanut butter </h2>
+<h3> My first peanut butter </h3>
+<h4> My first peanut butter </h4>
+<h5> My first peanut butter </h5>
+<h6> My first peanut butter </h6>
+
+<a href="https://en.wikipedia.org/wiki/Puppy"> This is a link </a>
+
+<img src="wings.jpg" alt="delish.com" width="500" height="500">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YOiJPmSW9uc
+" frameborder="0" allow="accelerometer; autoplay; encrypted-media;
+gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<audio controls>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+
+<ul>
+  <ol>1.coffee</ol>
+  <ol>2.milk</ol>
+  <ol>3.tea</ol>
+  <ol>Unordered Lists are unordered/bullet lists</ol>
+</ul>
+
+
+</body>
+</html>
